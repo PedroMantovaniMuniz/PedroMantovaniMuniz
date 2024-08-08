@@ -6,5 +6,6 @@ Meu nome é Pedro, tenho 16 anos. Gosto de tudo que está relacionado a tecnolog
 - Nos tempos livres gosto de estudar e praticar desenho;
 - Também estudo Python, JavaScript, HTML, CSS e estou sempre buscando conhecer e aprender novas linguagens de programação e desenvolvimento web;
 - Estou escrevendo 2 livros, e futuramente pretendo autopublica-los
+djfkfksflsf
 
 **"Ame mil vezes mais quem te ama; E saiba que, se alguém te amar o suficiente para te presentear com galáxias, certamente esta pessoa será seu universo, então contemple-a a cada dia, cada hora, cada minuto, e esteja sempre com seu coração explodindo em supernovas de gratidão e amor por ela"**
